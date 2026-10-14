@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trailhead User Analytics
 
 A full-stack demo that records visitor page views and clicks, groups events into browser sessions, and displays session journeys and page click positions.
@@ -84,3 +85,6 @@ npm start
 ```
 
 Set `VITE_API_URL` at client build time if the API is hosted on a different origin. Deploy the frontend static build and Node API separately, and configure MongoDB plus the frontend origin in the server environment.
+=======
+# simple-user-analytics
+>>>>>>> 79c331b01a0bfe14df704346af25dad8aa26450d
